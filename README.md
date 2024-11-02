@@ -2,17 +2,17 @@
 
 ## Project Overview
 
-The **Classification and Hypothesis Testing Project** aims to support ExtraaLearn, an EdTech startup, in identifying the most promising leads who are likely to convert into paid customers. This is achieved by analyzing lead data, building a predictive model, and performing hypothesis testing to understand the factors influencing conversions. The insights from this project will help ExtraaLearn allocate resources effectively, streamline the lead nurturing process, and boost conversion rates.
+The **Classification and Hypothesis Testing Project** aims to support an EdTech startup, in identifying the most promising leads who are likely to convert into paid customers. This is achieved by analyzing lead data, building a predictive model, and performing hypothesis testing to understand the factors influencing conversions. The insights from this project will help EdTech Co allocate resources effectively, streamline the lead nurturing process, and boost conversion rates.
 
 ## Context
 
 With the recent surge in the EdTech industry, particularly due to the Covid-19 pandemic, online education has become increasingly popular. The Online Education market was projected to reach $286.62 billion by 2023, with a steady growth rate of 10.26% annually. This growth is fueled by features such as ease of access, personalized learning experiences, and transparent assessments, which make online education more attractive than traditional methods.
 
-In this competitive landscape, ExtraaLearn faces the challenge of converting a high volume of leads generated through digital marketing efforts. These leads are gathered from various sources, including social media interactions, website visits, brochure downloads, and direct email inquiries. By analyzing lead behavior and characteristics, ExtraaLearn can identify high-potential leads and improve conversion rates.
+In this competitive landscape, EdTech Co faces the challenge of converting a high volume of leads generated through digital marketing efforts. These leads are gathered from various sources, including social media interactions, website visits, brochure downloads, and direct email inquiries. By analyzing lead behavior and characteristics, EdTech Co can identify high-potential leads and improve conversion rates.
 
 ## Objective
 
-As a data scientist at ExtraaLearn, your objectives are to:
+As a data scientist at EdTech Co, your objectives are to:
 
 1. **Build a Predictive Model**: Identify which leads are more likely to convert into paid customers.
 2. **Analyze Conversion Factors**: Determine the factors influencing lead conversion to optimize marketing and sales efforts.
@@ -20,7 +20,7 @@ As a data scientist at ExtraaLearn, your objectives are to:
 
 ## Data Description
 
-The dataset contains attributes about the leads and their interactions with ExtraaLearn. Each attribute provides valuable information to assess the likelihood of a lead converting into a customer. Below is a description of the data columns:
+The dataset contains attributes about the leads and their interactions with EdTech Co. Each attribute provides valuable information to assess the likelihood of a lead converting into a customer. Below is a description of the data columns:
 
 ### Data Dictionary
 
@@ -29,17 +29,17 @@ The dataset contains attributes about the leads and their interactions with Extr
 | **ID**                  | Unique identifier for each lead.                                                                      |
 | **age**                 | Age of the lead.                                                                                      |
 | **current_occupation**  | Current occupation status of the lead (e.g., Professional, Unemployed, Student).                      |
-| **first_interaction**   | Channel through which the lead first interacted with ExtraaLearn (e.g., Website, Mobile App).         |
+| **first_interaction**   | Channel through which the lead first interacted with EdTech Co (e.g., Website, Mobile App).         |
 | **profile_completed**   | Percentage of the profile completed on the website or mobile app (Low, Medium, High).                 |
 | **website_visits**      | Number of visits the lead made to the website.                                                        |
 | **time_spent_on_website** | Total time the lead spent on the website (in minutes).                                              |
 | **page_views_per_visit** | Average number of pages viewed per website visit.                                                    |
-| **last_activity**       | Last recorded activity with ExtraaLearn (e.g., Email, Phone, Website interactions).                  |
-| **print_media_type1**   | Flag indicating if the lead saw ExtraaLearn’s ad in a Newspaper (0 = No, 1 = Yes).                    |
-| **print_media_type2**   | Flag indicating if the lead saw ExtraaLearn’s ad in a Magazine (0 = No, 1 = Yes).                     |
-| **digital_media**       | Flag indicating if the lead saw ExtraaLearn’s ad on digital platforms (0 = No, 1 = Yes).              |
-| **educational_channels** | Flag indicating if the lead heard about ExtraaLearn through educational channels (e.g., forums).     |
-| **referral**            | Flag indicating if the lead was referred to ExtraaLearn (0 = No, 1 = Yes).                            |
+| **last_activity**       | Last recorded activity with EdTech Co (e.g., Email, Phone, Website interactions).                  |
+| **print_media_type1**   | Flag indicating if the lead saw EdTech Co’s ad in a Newspaper (0 = No, 1 = Yes).                    |
+| **print_media_type2**   | Flag indicating if the lead saw EdTech Co’s ad in a Magazine (0 = No, 1 = Yes).                     |
+| **digital_media**       | Flag indicating if the lead saw EdTech Co’s ad on digital platforms (0 = No, 1 = Yes).              |
+| **educational_channels** | Flag indicating if the lead heard about EdTech Co through educational channels (e.g., forums).     |
+| **referral**            | Flag indicating if the lead was referred to EdTech Co (0 = No, 1 = Yes).                            |
 | **status**              | Conversion status (1 if converted to a paid customer, 0 otherwise).                                   |
 
 ## Steps Involved
@@ -101,6 +101,6 @@ The dataset contains attributes about the leads and their interactions with Extr
 
 ### Note
 
-This project provides a foundation for understanding and predicting lead conversion in the EdTech industry. By analyzing lead data and implementing machine learning, ExtraaLearn can improve conversion rates and optimize resource allocation for maximum impact.
+This project provides a foundation for understanding and predicting lead conversion in the EdTech industry. By analyzing lead data and implementing machine learning, EdTech companies can improve conversion rates and optimize resource allocation for maximum impact.
 
 ---
