@@ -85,14 +85,6 @@ The dataset contains attributes about the leads and their interactions with Extr
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Run the Jupyter Notebook or Python script to load and preprocess the data, explore insights, and build the predictive model.
 
-### File Structure
-
-- `data/`: Folder containing the leads dataset.
-- `notebooks/`: Jupyter Notebooks used for data analysis, hypothesis testing, and model building.
-- `src/`: Python scripts for data preprocessing, modeling, and evaluation.
-- `README.md`: Project overview and instructions.
-- `summary.md`: Summary of the project objectives, steps, and outcomes.
-
 ## Results
 
 - **Predictive Model**: A machine learning model was developed to predict lead conversion probability with an accuracy of X%.
