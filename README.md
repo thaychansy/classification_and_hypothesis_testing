@@ -85,7 +85,7 @@ The dataset contains attributes about the leads and their interactions with EdTe
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Run the Jupyter Notebook or Python script to load and preprocess the data, explore insights, and build the predictive model.
 
-## Resultsgi 
+## Results
 
 - **Predictive Model**: A machine learning model was developed to predict lead conversion probability with an accuracy of X%.
 - **Key Conversion Factors**: Factors such as [list key factors identified from analysis, e.g., occupation, time spent on website] were found to significantly impact the likelihood of lead conversion.
