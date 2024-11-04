@@ -92,27 +92,17 @@ The dataset contains attributes about the leads and their interactions with EdTe
 - **Lead Profile**: Profiles of high-potential leads were developed to guide targeted marketing and sales efforts.
 
 ## Top Important Features
-
 The most important features driving lead conversion for ExtraaLearn are:
 
 1. Website Engagement:
-
     - Time Spent on Website, Page Views Per Visit, and Website Visits are top predictors. Leads who spend more time, view more pages, and visit frequently show higher engagement, indicating a stronger likelihood of conversion.
-
 2. First Interaction (Website):
-
     - Leads whose initial contact was through the website have a higher conversion rate, suggesting that website visitors may have more intent to explore and enroll.
-
 3. Profile Completion Level:
-
     - Leads with medium profile completion are more likely to convert. Encouraging profile completion could increase engagement and conversions.
-
 4. Age:
-
     - Certain age groups are more likely to convert, allowing for targeted marketing strategies tailored to these demographics.
-
 5. Last Activity (Phone Activity):
-
     - Leads whose last interaction was a phone call have a higher conversion likelihood, highlighting the effectiveness of personalized follow-up calls.
 
 ## Insights and Recommendations
