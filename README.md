@@ -12,7 +12,7 @@ In this competitive landscape, EdTech Co faces the challenge of converting a hig
 
 ## Objective
 
-As a data scientist at EdTech Co, your objectives are to:
+As a data scientist at an EdTech Co, your objectives are to:
 
 1. **Build a Predictive Model**: Identify which leads are more likely to convert into paid customers.
 2. **Analyze Conversion Factors**: Determine the factors influencing lead conversion to optimize marketing and sales efforts.
@@ -20,7 +20,7 @@ As a data scientist at EdTech Co, your objectives are to:
 
 ## Data Description
 
-The dataset contains attributes about the leads and their interactions with EdTech Co. Each attribute provides valuable information to assess the likelihood of a lead converting into a customer. Below is a description of the data columns:
+The dataset contains attributes about the leads and their interactions with the EdTech Co. Each attribute provides valuable information to assess the likelihood of a lead converting into a customer. Below is a description of the data columns:
 
 ### Data Dictionary
 
@@ -29,17 +29,17 @@ The dataset contains attributes about the leads and their interactions with EdTe
 | **ID**                  | Unique identifier for each lead.                                                                      |
 | **age**                 | Age of the lead.                                                                                      |
 | **current_occupation**  | Current occupation status of the lead (e.g., Professional, Unemployed, Student).                      |
-| **first_interaction**   | Channel through which the lead first interacted with EdTech Co (e.g., Website, Mobile App).         |
+| **first_interaction**   | Channel through which the lead first interacted with the EdTech Co (e.g., Website, Mobile App).         |
 | **profile_completed**   | Percentage of the profile completed on the website or mobile app (Low, Medium, High).                 |
 | **website_visits**      | Number of visits the lead made to the website.                                                        |
 | **time_spent_on_website** | Total time the lead spent on the website (in minutes).                                              |
 | **page_views_per_visit** | Average number of pages viewed per website visit.                                                    |
 | **last_activity**       | Last recorded activity with EdTech Co (e.g., Email, Phone, Website interactions).                  |
-| **print_media_type1**   | Flag indicating if the lead saw EdTech Co’s ad in a Newspaper (0 = No, 1 = Yes).                    |
-| **print_media_type2**   | Flag indicating if the lead saw EdTech Co’s ad in a Magazine (0 = No, 1 = Yes).                     |
-| **digital_media**       | Flag indicating if the lead saw EdTech Co’s ad on digital platforms (0 = No, 1 = Yes).              |
-| **educational_channels** | Flag indicating if the lead heard about EdTech Co through educational channels (e.g., forums).     |
-| **referral**            | Flag indicating if the lead was referred to EdTech Co (0 = No, 1 = Yes).                            |
+| **print_media_type1**   | Flag indicating if the lead saw the EdTech Co’s ad in a Newspaper (0 = No, 1 = Yes).                    |
+| **print_media_type2**   | Flag indicating if the lead saw the EdTech Co’s ad in a Magazine (0 = No, 1 = Yes).                     |
+| **digital_media**       | Flag indicating if the lead saw the EdTech Co’s ad on digital platforms (0 = No, 1 = Yes).              |
+| **educational_channels** | Flag indicating if the lead heard about the EdTech Co through educational channels (e.g., forums).     |
+| **referral**            | Flag indicating if the lead was referred to the EdTech Co (0 = No, 1 = Yes).                            |
 | **status**              | Conversion status (1 if converted to a paid customer, 0 otherwise).                                   |
 
 ## Steps Involved
@@ -92,7 +92,7 @@ The dataset contains attributes about the leads and their interactions with EdTe
 - **Lead Profile**: Profiles of high-potential leads were developed to guide targeted marketing and sales efforts.
 
 ## Top Important Features
-The most important features driving lead conversion for ExtraaLearn are:
+The most important features driving lead conversion for the EdTech Co are:
 
 1. **Website Engagement:**
     - Time Spent on Website, Page Views Per Visit, and Website Visits are top predictors. Leads who spend more time, view more pages, and visit frequently show higher engagement, indicating a stronger likelihood of conversion.
