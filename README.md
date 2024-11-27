@@ -87,7 +87,7 @@ The dataset contains attributes about the leads and their interactions with the 
 
 ## Results
 
-- **Predictive Model**: A machine learning model was developed to predict lead conversion probability with an accuracy of X%.
+- **Predictive Model**: A machine learning model was developed to predict lead conversion probability.
 - **Key Conversion Factors**: Factors such as [list key factors identified from analysis, e.g., occupation, time spent on website] were found to significantly impact the likelihood of lead conversion.
 - **Lead Profile**: Profiles of high-potential leads were developed to guide targeted marketing and sales efforts.
 
